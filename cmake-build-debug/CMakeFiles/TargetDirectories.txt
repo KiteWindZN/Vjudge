@@ -1,0 +1,3 @@
+/Users/zhangnan/Desktop/Vjudge/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhangnan/Desktop/Vjudge/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhangnan/Desktop/Vjudge/cmake-build-debug/CMakeFiles/CCF.dir
