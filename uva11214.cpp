@@ -71,6 +71,7 @@ bool dfs_11214(int i,int j,int cur){
 }
 int main_11214(){
     int T;
+    int index=1;
     cin>>n_11214;
     while(n_11214>0){
         cin>>m_11214;
@@ -92,7 +93,8 @@ int main_11214(){
             if(dfs_11214(0,0,1))
                 break;
         }
-        cout<<maxd_11214<<endl;
+        cout<<"Case "<<index<<": "<<maxd_11214<<endl;
+        index++;
         cin>>n_11214;
     }
     return 0;
